@@ -70,7 +70,7 @@ if(num[2]== 0 && sign == '/') {
 	   break;
    
    }
-   
+   System.out.println(sign);
 }
 
 }
@@ -258,6 +258,5 @@ public class calculatorMain {
 
    }
    
-      
       
    }*/
